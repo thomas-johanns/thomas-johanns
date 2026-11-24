@@ -1,6 +1,6 @@
 ## Hi, I'm Thomas Johanns
 
-Computer Engineering student at the **University of Connecticut** (B.S., expected May 2027). I like working where hardware meets software: processor design, embedded systems, vehicle networks, and AI tools for engineering.
+Computer Engineering student at the **University of Connecticut** (B.S., expected May 2027). I like doing work in processor design, embedded systems, vehicle networks, and AI tools for engineering.
 
 ### What I'm working on
 
